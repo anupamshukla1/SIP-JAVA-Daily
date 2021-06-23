@@ -1,7 +1,8 @@
 // 22 june 2021
 // Java Program to Check if a Given Integer is Odd or Even
-// *****  Using Brute Force– Naive Approach  *****
-
+// *****  Using Brute Force– Naive Approa
+// Java Program to Check if a Given Integer is Odd or Even
+//*******   Using Brute Force– Naive Approach   ********
 import java.util.Scanner;
 
 public class odd_even {
