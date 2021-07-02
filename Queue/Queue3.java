@@ -1,3 +1,5 @@
+// PriorityQueue 
+
 import java.util.*;
 public class Queue3
 { 
@@ -25,3 +27,4 @@ public class Queue3
       System.out.println("Elements in Queue:"+q2);
    }
 }
+ 
